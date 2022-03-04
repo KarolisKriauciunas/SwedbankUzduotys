@@ -8,7 +8,7 @@ public class Basics {
         Scanner read = new Scanner(System.in);
        // String I = read.nextLine("INPUT THE LENGHT");
         Art two = new Art();
-        two.Draw(10);
+        two.Draw(20);
 
     }
 

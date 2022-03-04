@@ -11,7 +11,8 @@
 //       • Use encapsulation.
 //        • Calculation must be done using methods.
 //        •	• To print out all information create the method
-        package itacademy.java.oop.basics;
+
+package itacademy.java.oop.basics;
 
 import java.util.ArrayList;
 

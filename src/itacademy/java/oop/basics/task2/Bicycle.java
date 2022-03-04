@@ -6,7 +6,7 @@ public interface Bicycle {
     {
 
     }
-    public static void speedUp ( int increment)
+    public static void speedUp( int increment)
     {
 
     }

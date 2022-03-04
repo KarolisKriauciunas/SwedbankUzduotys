@@ -13,8 +13,8 @@ package itacademy.java.oop.basics.task1;
 
 public class ShapeApplication {
     public static void main(String[] args) {
-    Square square1 = new Square(5);
-    Circle circle1 = new Circle(2.4);
+    Shape square1 = new Square(5);
+    Shape circle1 = new Circle(2.4);
     System.out.println(square1);
     System.out.println(circle1);
     }

@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Swedbank.iml" filepath="$PROJECT_DIR$/Swedbank.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Swedbankas.iml" filepath="$PROJECT_DIR$/Swedbankas.iml" />
+>>>>>>> 19913f5 (03/07 Darbai (Collections) + changes)
     </modules>
   </component>
 </project>
